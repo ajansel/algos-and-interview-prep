@@ -1,0 +1,1 @@
+[link](https://github.com/appacademy/sf-job-search-curriculum/tree/master/algorithms/arrays)
